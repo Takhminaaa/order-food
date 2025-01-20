@@ -1,11 +1,11 @@
+import { Header } from "./components/header/Header"
+import { MealsSummary } from "./components/mealsSummary/MealsSummary"
+
 function App() {
   return (
     <div>
-      <h1>order food
-        
-      </h1>
-
-
+      <Header />
+      <MealsSummary />
     </div>
     
   )
