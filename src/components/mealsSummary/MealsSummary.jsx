@@ -20,7 +20,6 @@ const WrrapperImage=styled("div")(()=>({
 
     "& img": {
         width: "100%",
-        height:"25rem",
     }
 }));
 const MealsSummaryContainer = styled("div")(()=>({
